@@ -8,3 +8,7 @@ cd Khalipaper-React
 yarn install
 yarn start
 ```
+
+## License
+
+[MIT](LICENSE)
